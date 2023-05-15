@@ -28,6 +28,13 @@ nftId: [
   "0x978900cc9553388fef5602293f1df4ca4ec43370fa7e2c308041c01fb3aa3c36",
     ], 
   },
+  // giveaway 1
+  {
+    cid: "bafkreidevll7vyx7okn2zq6adjgnwuvng5kt2b2n3v4bnbgsiuprltpfri", 
+nftId: [
+  "0x253d9af57e1eb4448f0d2ee9b3fb7bfb14a2b6147503e84b1048a264419d0521",
+    ], 
+  },
 ];
 
 export { unlockables };
