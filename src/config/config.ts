@@ -28,7 +28,7 @@ nftId: [
   "0x978900cc9553388fef5602293f1df4ca4ec43370fa7e2c308041c01fb3aa3c36",
     ], 
   },
-  // giveaway 1
+  // giveaway1
   {
     cid: "bafkreidevll7vyx7okn2zq6adjgnwuvng5kt2b2n3v4bnbgsiuprltpfri", 
 nftId: [
